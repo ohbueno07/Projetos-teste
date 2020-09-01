@@ -3902,3 +3902,4 @@ java.net.ConnectException: Connection timed out: connect
 2020-08-31 21:51:02,400 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-31 21:51:02,401 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Citibank\workspace\lojaweb\src\main\resources
 2020-08-31 21:51:02,404 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-31 21:51:02,405 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Citibank\workspace\lojaweb\src\test\resources
